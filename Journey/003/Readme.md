@@ -1,5 +1,6 @@
 # 03 Management Docker
 
+![image](https://github.com/SonyVansha25/Docker-Learning/assets/152833966/68517005-6aa1-4307-9aaf-230c98a2ef83)
 
 ### Pengelolaan Container
 
