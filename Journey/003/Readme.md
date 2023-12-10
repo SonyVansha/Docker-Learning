@@ -1,0 +1,38 @@
+# 03 Management Docker
+
+
+### Pengelolaan Container
+
+- docker create (name_image): Membuat kontainer baru dari image.
+- docker start : Menjalankan kontainer yang sudah dibuat
+- docker stop : Menghentikan kontainer yang sedang berjalan
+- docker restart : Restart kontainer yang berjalan.
+- docker rm (name_container): Menghapus satu atau beberapa Container
+- docker ps : Menampilkan daftar kontainer yang sedang berjalan
+- docker ps -a : Menampilkan semua kontainer, termasuk yang sudah berhenti
+- docker inspect : Menampilkan informasi detail tentang kontainer
+
+### Pengelolaan Image:
+- docker build : Membuat image dari Dockerfile
+- docker pull : Mengunduh image dari registry ke lokal
+- docker push : Mengunggah image lokal ke Registry
+- docker images : Menampilkan daftar image yang ada di lokal
+- docker rmi : Menghapus satu atau beberapa image
+- docker history : Menampilkan riwayat perubahan pada suatu image
+
+### Pengaturan Jaringan:
+- docker network ls : Menampilkan daftar jaringan yang ada.
+- docker network create (name) : Membuat jaringan baru
+- docker network connect : Menghubungkan kontainer ke jaringan tertentu
+- docker network disconnect : Mencabut koneksi kontainer dari jaringan
+
+### Manajemen Sumber Daya:
+- docker stats : Menampilkan statistik penggunaan sumber daya kontainer
+- docker exec : Menjalankan perintah di dalam kontainer yang sedang berjalan
+- docker attach : Menghubungkan terminal Anda ke kontainer yang sedang berjalan
+
+### Lainnya:
+- docker version : Menampilkan informasi versi Docker yang terpasang
+- docker info : Menampilkan informasi detail tentang konfigurasi Docker
+- docker login : Masuk ke registry Docker
+- docker logout : Keluar dari registry Docker
