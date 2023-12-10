@@ -37,6 +37,9 @@ Docker ini diperkenalkan pada tahun 2013 oleh Solomon Hykes pada acara PyCon. Be
 - <b>Mengurangi Resiko Insiden (kegagalan)</b>
 
 ## Architecture docker
+
+![image](https://github.com/SonyVansha25/Docker-Learning/assets/152833966/ce832c7f-e929-484d-bcd4-32177ad94fd5)
+
 - <b>Docker Client</b> : pengguna menggunakan Docker Client untuk membuat, mengelola, dan menjalankan kontainer melalui command-line interface (CLI) atau antarmuka grafis. Ketika gunakan perintah <i>docker run</i> atau <i>docker build</i>, sebenarnya berkomunikasi dengan Docker Daemon (host) melalui Docker Client.
 - <b>Docker Host (Docker Daemon)</b> : Docker Daemon berjalan di mesin tujuan (biasanya disebut host) dan bertanggung jawab atas membuat dan mengelola kontainer.
 - <b>Docker Registry</b> : Docker Registry adalah tempat penyimpanan untuk image Docker. 
