@@ -1,6 +1,7 @@
 ### 1 Pengenalan Docker
 
-![Alt text](image.png)
+![image](https://github.com/SonyVansha25/Docker-Learning/assets/152833966/9b9aec6b-2c15-4d62-9b6c-eacc27e26c86)
+
 
 ## Apa itu Docker?
 
