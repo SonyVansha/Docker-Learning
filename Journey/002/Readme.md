@@ -1,5 +1,7 @@
 # Pengenalan Container
 
+![image](https://github.com/SonyVansha25/Docker-Learning/assets/152833966/7e7527ed-084b-4bd5-8bc7-06498262b5d6)
+
 ## Apa itu Container?
 
 Containers adalah software yang digunakan untuk mempermudah pengembangan aplikasi dengan cara mengemas dan mengisolasi suatu aplikasi secara virtual.
